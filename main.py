@@ -67,4 +67,3 @@ lista_moedas.pack(padx=10, pady=10)
 
 #rodar a janela
 janela.mainloop()
-
